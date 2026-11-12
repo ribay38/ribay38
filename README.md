@@ -1,5 +1,11 @@
 ## Hi there 👋 I am a student at UIC
 
+
+## About Me
+  ...
+
+## How to reach me
+   ...
 <!--
 **ribay38/ribay38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
